@@ -1,0 +1,27 @@
+{
+  "name": "melon-webp-plugin",
+  "version": "1.0.0",
+  "description": "replace png to webp base webpack5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "webpack5",
+    "webp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0Melon0/melon-webp-plugin.git"
+  },
+  "author": "melon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0Melon0/melon-webp-plugin/issues"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^5.4.0",
+    "webpack-sources": "^3.2.1"
+  }
+}
